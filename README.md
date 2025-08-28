@@ -68,15 +68,10 @@ Controller → Service → Repository → Database
     npm run start:dev
 
 3. **Run Tests**
-```
-    bash
-    npm run test
-    npm run test:e2e
+   ```bash
+   # Run unit tests
+   npm run test
 
-✅ What This Demonstrates
+   # Run end-to-end (E2E) tests
+   npm run test:e2e
 
-✔️ Strong grasp of NestJS architecture (Modules → Controllers → Services → Repositories → DB)
-✔️ Secure Authentication & Authorization with role-based access control
-✔️ Clean DTOs, Pipes, Validation & Serialization practices
-✔️ Professional Unit + E2E Testing setup
-✔️ Real-world API design, showcasing best practices

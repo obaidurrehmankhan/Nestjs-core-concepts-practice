@@ -64,11 +64,14 @@ Controller → Service → Repository → Database
 
 2. **Start Dev Server**
 
-    ```npm run start:dev
+    ```bash 
+    npm run start:dev
 
 3. **Run Tests**
-```npm run test
-   npm run test:e2e
+```
+    bash
+    npm run test
+    npm run test:e2e
 
 ✅ What This Demonstrates
 
